@@ -1,5 +1,5 @@
 # home_ed_projects
-Git-Hub reposiitory for https://homeed2.slack.com/messages
+Git-Hub repository for https://homeed2.slack.com/messages
 
 ## Table of Contents:
 - [Header](#header1)
